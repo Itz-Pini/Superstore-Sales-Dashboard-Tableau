@@ -20,7 +20,7 @@ The objective of this project is to monitor key performance indicators (KPIs), i
 ## 📂 Dataset Information
 
 - **Dataset Name:** Sample - Superstore
-- **Source:** Kaggle-Sample - Superstore
+- **Source:** Keggle
 - **Type:** Sales Transaction Dataset
 - **Format:** Excel (.xlsx)
 
